@@ -9,7 +9,7 @@ int main() {
 
   std::cout << "Hello Solar System !"  << std::endl;
 
-  std::cout << "Hello Galaxy !"" << std::endl;
+  std::cout << "Hello Galaxy !" << std::endl;
 
   std::cout << "Hello Universe " << std::endl;
 
