@@ -2,7 +2,6 @@
 //Jahir Mercado (Jahir_Mercado,Xtal85-92)
 //This Program adds 2 numbers 
 
-#include <iostream>
 
 int main() {
   int number1, number2, sum;
